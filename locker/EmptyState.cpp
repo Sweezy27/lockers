@@ -11,9 +11,6 @@
 #include "EmptyState.h"
 #include "LockerState.h"
 
-
-using std::string;
-
 EmptyState::EmptyState(){
 }
 

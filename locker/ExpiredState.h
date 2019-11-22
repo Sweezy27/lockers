@@ -11,6 +11,7 @@
 #ifndef EXPIRED_STATE_H
 #define EXPIRED_STATE_H
 #include "LockerState.h"
+#include <string>
 class ExpiredState;
 
 class ExpiredState: public LockerState{

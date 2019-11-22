@@ -11,13 +11,11 @@
 #include "LockerState.h"
 #include "ExpiredState.h"
 
-using std::string;
-
 ExpiredState::ExpiredState(){
     
 }
 
-std::string getStateName(){
+std::string ExpiredState::getStateName(){
     return "expired";
 }
 

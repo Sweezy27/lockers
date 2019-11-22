@@ -9,6 +9,7 @@
 #ifndef FullState_h
 #define FullState_h
 #include "LockerState.h"
+#include <string>
 class FullState;
 
 class FullState: public LockerState{

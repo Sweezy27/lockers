@@ -9,6 +9,7 @@
 #ifndef BlockState_h
 #define BlockState_h
 #include "LockerState.h"
+#include <string>
 
 class BlockState;
 

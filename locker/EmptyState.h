@@ -9,6 +9,7 @@
 #ifndef EMPTY_STATE_H
 #define EMPTY_STATE_H
 #include "LockerState.h"
+#include <string>
 
 class EmptyState;
 

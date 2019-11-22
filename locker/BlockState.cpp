@@ -14,7 +14,7 @@ BlockState::BlockState(){
     
 }
 
-std::string getStateName(){
+std::string BlockState::getStateName(){
     return "block";
 }
 

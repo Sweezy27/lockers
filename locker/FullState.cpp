@@ -12,7 +12,7 @@ FullState::FullState() : LockerState(){
     
 }
 
-std::string getStateName(){
+std::string FullState::getStateName(){
     return "full";
 }
 
